@@ -1,3 +1,15 @@
+### The following information is for Assignment#1
+
+The asisgnment was to mention the github username and the location of HW1
+
+username: gauravcusp
+
+path: https://github.com/gauravcusp/PUI2017/HW1_gb1877
+
+
+
+### The following is for Assignment#2
+
 ## Steps I took to setup the environment
 
 - Open the terminal and login to compute
