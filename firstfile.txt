@@ -1,2 +1,26 @@
 This is the first file.
 Hello there, this is Isha messing with your file
+
+Formulate the Null hypothesis in words and in formulae for the 4 experiments below:
+
+Do diets help lose more fat than the exercise?
+Experimental setup: you have a test and a control sample.
+
+=> Modified Hypothesis: Do the % of people who only diet for about a year lose significantly more fat than the people who only exercise?
+H0: The average %age of weight lost by people in the test sample om a diet is less or same as for the control sample
+H0: Pt <= Pc
+
+Ha: The average %age of weight lost by the sample on exercise is larger or the same as by the sample on a diet sample.
+H1: Pt > Pc
+-- 
+
+Quantify the danger of smoking for pregnant women. (Olds et al., 1994, p. 223)
+Experimemtal setup: measure IQ of children at ages 1, 2, 3, and 4 years of age.
+
+=>Modified: The average IQ of children between ages 1 and 4 is significantly lower where mothers used to smoke during pregnancy. 
+
+--analysis of IQ spread accross 2 years with %age of women smoking
+
+H0: 
+
+Contribute to the incidence of diabetes Food deserts are defined as parts of the country vapid of fresh fruit, vegetables, and other healthful whole foods, usually found in impoverished areas. This is largely due to a lack of grocery stores, farmers' markets, and healthy food providers.
