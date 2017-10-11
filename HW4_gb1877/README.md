@@ -16,7 +16,7 @@ In this assignment I worked with Rachel and replicated steps as directed by Prof
 #### Assignment 4
 
 In assignment 4 I woked with Rachel and Yu to analyse the problem and discussed the findings of all thee tests conducted.
-Also, took Charlie's help for the function that determined the boroughs based on the coordinates.
+Also, took Charlie and Jack's help for the function that determined the boroughs based on the coordinates.
 
 
 
