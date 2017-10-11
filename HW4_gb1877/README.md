@@ -1,7 +1,7 @@
 
 ## README for Assignment 4
 
-####Assigment 1
+#### Assigment 1
 
 In this assignment I forked Ben's repository and analysed his hypothesis on citi bike. I created a md file in this forked repository and added my comments to it. Later I sent pull request to merge the code with his repository.
 
@@ -15,7 +15,7 @@ In this assignment I worked with Rachel and replicated steps as directed by Prof
 
 #### Assignment 4
 
-
+In assignment 4 I woked with Rachel and Yu to analyse the problem and discussed the findings of all thee tests conducted.
 
 
 
