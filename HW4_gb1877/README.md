@@ -32,6 +32,6 @@ Logistic Regression	| 1, size of community | ordinal | 1, Critical or not critic
   ||||||||| 
 
 
-FBB: I cannot find anywhere the mutiple regression in the second paper you mentioned . They used ANOVA and Bayesian t-test: 
+FBB: OK on finding variable etc but I cannot find anywhere the mutiple regression in the second paper you mentioned . They used ANOVA and Bayesian t-test: 
 To test the strength of this mimicry effect, we then conducted a Bayesian t-test in which we tested the hypothesis that the mimicry score (M =1.24; SD = 5.09) was larger than 0 to assess the presence of mimicry and correlation tests (Pearson's) to assess correlation with automatic imitation :
 "To test the relationship between mimicry and automatic imitation, we ran correlational analyses and will report both the corresponding p-values and BFs. In order to test the relationship between mimicry and automatic imitation, we correlated the mimicry score with all the scores of the automatic imitation task [...] We then computed the BFs of all correlations to investigate whether the null hypothesis (i.e., mimicry and automatic imitation are not positively correlated)"
