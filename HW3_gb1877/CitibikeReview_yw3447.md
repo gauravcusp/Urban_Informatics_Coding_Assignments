@@ -21,3 +21,5 @@ According to the guidance from "How to choose the right statistical test?" (http
 <i>Question 1: Is there a difference between groups that are unpaired? Groups or data sets are regarded as unpaired if there is no possibility of the values in one data set being related to or being influenced by the values in the other data sets. Different tests are required for quantitative or numerical data and qualitative or categorical data as shown in Fig. 1.</i>
 
 For this hypothesis test, the groups are unpaired. We are measuring the frequency of rides. It is numerical. The next point of difference is whether the data is parametric or not. Since we have no assumption about the distribution of rides for subscriber and customer, I conclude that the data is non-parametric and select the <b>Chi-square test</b>.
+
+FBB good
