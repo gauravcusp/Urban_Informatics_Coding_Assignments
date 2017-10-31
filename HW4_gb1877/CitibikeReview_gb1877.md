@@ -14,7 +14,10 @@ For analysis of the problme states above, one needs to have temporal data for su
 ### Appropriate test for Null hypothesis
 
 As the problems deals with two varibales (time and user type) and one of the varibales has two categories (user type: customer and subscriber), based on the flow chart from slides, I would choose Chi square test for association. 
+# FBB Chi square test for proportion is how we caled it. 
 
 ### Additional Comments
 
 Based on the data, I would rather choose monthly data than weekly data. The reason being, the data for user type 'Customer' is quite small when a small time span of week is considered. The longer duration would have showed the effects of the problem in a more broader way.
+
+# FBB good
