@@ -15,4 +15,6 @@
 
 - Used initial few lines of notebook from Professor Binaco's skeleton notebook.
 - Performed the SQL queries for all the questions that we performed with Professor Vo in SQL lab session. 
+- Unisse guided me to the reference website where urllib and urllib2 packages are sorted as per Python 2.7 and Python 3.0
+    http://python-future.org/compatible_idioms.html 
 
