@@ -6,8 +6,10 @@
 
 ## Original Visualization
 ![Alt text](https://github.com/gauravcusp/PUI2017_gb1877/raw/master/HW8_gb1877/plot.png)
+
 This plot gives us the information that the two varibales, log of Energy Use and log of Greenhouse Gas are faily linearly correlated.
 ![Alt text](https://github.com/gauravcusp/PUI2017_gb1877/raw/master/HW8_gb1877/download.png)
+
 This figure gives us the pattern of GHG emissions across the city at zip code level.
 
 ## Review
