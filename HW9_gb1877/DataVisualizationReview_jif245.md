@@ -13,3 +13,20 @@ According to Julian, this plot gives us the ratio of crimes committed in each bo
 ### Suggestion
 
 The choice of plot is apt with the kind of data used. I would just be more careful about the labels and titles I'm using for the plots as it creates confusion.
+
+# FBB Feedback on review
+
+Hi Gaurav,
+
+things I would have noticed:
+
+labels way too small, tick marks way too small, legend tiny tiny! why so much white space! the symbols are so small they are hardly distinguishable
+
+the points are joined by a line. That is ok in this case cause the points are so small that continuity would be lost otherwise. but why are the lines dashed? they are all the same anyways, and the dashes contribute to the distraction.
+
+on the top plot, what does "crime across year" mean? crime PER year, but that is unnecessary cause the year is the x axis already. so the y label could just be Total number of crimes (and dont need to say by borough cause the legend says that)
+The x label, wjy does it sayt year (2000-2016)? the range of the axis is obvious by the tick labels themselves. 
+
+You also missed that the colors are NOT color blind copliant: manhattan and bronx are indistinguishable to the most common color blindness, and so are staten island and queens
+
+8/10
