@@ -21,3 +21,15 @@ Instead of the plot Ben created, I would have preferred a frequency plot which w
 ![](https://github.com/gauravcusp/PUI2017_gb1877/blob/master/HW9_gb1877/Monthly_Subway-App-based_Ridership.png "Ridership")
 
 Courtesy[https://www.nycedc.com/blog-entry/transportation-trends-nyc]
+
+# FBB feedback
+
+Hi Gaurav,
+
+in your comments and suggestions you fail to notice that Bens plot provides one further dimension compared to the plot you attach: his plot is 3D, your sugested plot would need to have >1500 points on the x axis to describe all this information, and the various periodicities (week, day) would likely be harder to spot: one thing that is obvious in Ben's plot is that weekends have a distinctly different behavior than week days, which is lost in a time series plot like the one you propose. 
+
+Other points you make: the "blurrines" is fine because it helps honesty: the alternative would be to smooth the bins, but this would add a free variable (how do you smooth). 
+
+I agree that the plot does not indicate spikes at 9AM and 6PM - although it indicates different behavior for these times in weekdays and weekends
+
+10/10
