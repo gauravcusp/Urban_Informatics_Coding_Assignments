@@ -29,4 +29,4 @@ The x label, wjy does it sayt year (2000-2016)? the range of the axis is obvious
 
 You also missed that the colors are NOT color blind copliant: manhattan and bronx are indistinguishable to the most common color blindness, and so are staten island and queens
 
-8/10
+8.5/10
